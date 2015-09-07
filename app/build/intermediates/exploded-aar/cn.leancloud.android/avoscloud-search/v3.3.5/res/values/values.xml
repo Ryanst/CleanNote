@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/avos/avos/jenkins/workspace/avoscloud-Android-sdk-release/avoscloud-search/src/main/res/values/avoscloud_search_color.xml -->
+    <eat-comment/>
+    <color name="avoscloud_blue">#56b8f4</color>
+    <!-- From: file:/Users/avos/avos/jenkins/workspace/avoscloud-Android-sdk-release/avoscloud-search/src/main/res/values/avoscloud_search_strings.xml -->
+    <eat-comment/>
+    <string name="avoscloud_search_empty_result_text">No Match Data Found</string>
+    <string name="avoscloud_search_open_app_text">Open App</string>
+    <string name="avoscloud_search_result_title">Search Result</string>
+</resources>

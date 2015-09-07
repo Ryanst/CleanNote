@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanNote</string>
+    <string name="empty">There is no note right now.</string>
+    <string name="menu_insert">Create Note</string>
+    <string name="title_hint">Enter your note title</string>
+    <string name="content_hint">Enter your note content</string>
+    <string name="confirm">Done</string>
+    <string name="create_note">Create Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="menu_search">Search</string>
+</resources>

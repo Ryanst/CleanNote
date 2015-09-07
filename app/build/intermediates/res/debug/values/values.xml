@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/avoscloud_search_color.xml -->
+    <eat-comment/>
+    <color name="avoscloud_blue">#56b8f4</color>
+    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CleanNote</string>
+    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/avoscloud_search_strings.xml -->
+    <eat-comment/>
+    <string name="avoscloud_search_empty_result_text">No Match Data Found</string>
+    <string name="avoscloud_search_open_app_text">Open App</string>
+    <string name="avoscloud_search_result_title">Search Result</string>
+    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="confirm">Done</string>
+    <string name="content_hint">Enter your note content</string>
+    <string name="create_note">Create Note</string>
+    <string name="empty">There is no note right now.</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="menu_insert">Create Note</string>
+    <string name="menu_search">Search</string>
+    <string name="title_hint">Enter your note title</string>
+</resources>

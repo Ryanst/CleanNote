@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/Java-WebSocket/1.2.0-leancloud/221fb6750fcf164a85a98bbbafe0879e18868562/Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.2.0-leancloud-b994f80585b75d5b65647425093e1182a52059f0.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.4/dba4d4d224e2ca872af5be8d2992777583145478/httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/httpmime-4.2.4-60eca2515ff95d1a2b3d4b7303e4ba15702cdbbf.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/fastjson/1.1.38-leancloud/35af3ae48af2f2d20615f0999a20edb385258a82/fastjson-1.1.38-leancloud.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="35af3ae48af2f2d20615f0999a20edb385258a82">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/fastjson-1.1.38-leancloud-d57a9bfc80bb317d3986d0bd697a4bc07162376c.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/classes-bf3c35a6ca70eb63a85a52d1aa22f595f761953c.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-search/v3.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="94331c8386f6ed5f8ddb2183f585b1360901b9e2">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/classes-0d9153fbe17a8009a4d8d4873a964c1730c1f62f.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/v3.3.5/14ae61cea50e086b775a0b7dc8ef5388ff31e184/avoscloud-sdk-v3.3.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14ae61cea50e086b775a0b7dc8ef5388ff31e184">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v3.3.5-4af4dccae1ca23f7424b18b28e6248bb0cf3b830.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-statistics/v3.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="64391b02bbf7417b4c778f646ee591ff78f86377">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/classes-96e783f944a9afb291ae3170d061ac704762ce6b.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/Software/ADT/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-13e1d063424c52528174c1f940cbf719c604b31c.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-53a2ec216a5562b09cfbe64ea4bc5259b54a5d38.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-push/v3.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c6ba8671af44ca37121db1794394e1cec75a7df">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/classes-7e68fde9bb4f26278272d0e5d12886ad0a07b03a.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7710639ced88ed915ea170f609316e77ff512ad0.jar" />
+    </item>
+    <item
+        jar="/Users/zhengjt/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.4/3b7f38df6de5dd8b500e602ae8c2dd5ee446f883/httpcore-4.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/pre-dexed/debug/httpcore-4.2.4-f5bd1de6a341a55946b8265dbbbea99db405582a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhengjt.cleannote"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="11" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".NoteApplication"
+        android:icon="@drawable/note_96x96"
+        android:theme="@android:style/Theme.Holo.Light"
+        android:label="@string/app_name">
+        <activity
+            android:name=".NoteActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CreateNote">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- 处理以"com.avoscloud.note://avoscloud/classes/cleannote/"开头的 URI -->
+                <data android:scheme="com.avoscloud.cleannote" />
+                <data android:host="avoscloud" />
+                <data android:pathPrefix="/classes/note/" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.avos.avoscloud.search.SearchActivity"/>
+    </application>
+
+</manifest>
