@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values-zh/avoscloud_search_strings.xml -->
+    <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-search/v3.3.5/res/values-zh/values.xml -->
     <eat-comment/>
     <string name="avoscloud_search_empty_result_text">没有找到匹配的数据</string>
     <string name="avoscloud_search_open_app_text">打开应用</string>

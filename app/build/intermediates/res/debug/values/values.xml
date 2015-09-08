@@ -8,7 +8,7 @@
     <string name="app_name">CleanNote</string>
     <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/avoscloud_search_strings.xml -->
     <eat-comment/>
-    <string name="avoscloud_search_empty_result_text">No Match Data Found</string>
+    <string name="avoscloud_search_empty_result_text">No content</string>
     <string name="avoscloud_search_open_app_text">Open App</string>
     <string name="avoscloud_search_result_title">Search Result</string>
     <!-- From: file:/Users/zhengjt/Documents/MyCode/Android/MyGit/CleanNote/app/src/main/res/values/strings.xml -->

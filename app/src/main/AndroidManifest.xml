@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zhengjt.cleannote"
-    android:versionCode="1"
-    android:versionName="1.0">
+    android:versionCode="2"
+    android:versionName="1.1">
 
     <uses-sdk android:minSdkVersion="11" />
 
@@ -26,7 +26,7 @@
         <activity android:name=".CreateNote">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
-
+w
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <!-- 处理以"com.avoscloud.note://avoscloud/classes/cleannote/"开头的 URI -->
